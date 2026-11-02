@@ -23,6 +23,7 @@ Each folder corresponds to one module.
 Each script is standalone. Open a terminal and run:
 ```
 https://github.com/lizzayasusf/ism2411-labs
+```
 
 ## Reflection
 

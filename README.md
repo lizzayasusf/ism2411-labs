@@ -22,4 +22,4 @@ Each folder corresponds to one module.
 
 Each script is standalone. Open a terminal and run:
 ```
-[python week07/functions.py](https://github.com/lizzayasusf/ism2411-labs/tree/main/module07)```
+https://github.com/lizzayasusf/ism2411-labs```

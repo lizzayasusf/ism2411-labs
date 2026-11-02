@@ -22,5 +22,5 @@ Each folder corresponds to one module.
 
 Each script is standalone. Open a terminal and run:
 ```
-python module07/functions.py
+python week07/functions.py
 ```

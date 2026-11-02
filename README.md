@@ -1,16 +1,26 @@
-# Student Name: Liz Zayas
+# ISM2411 — Python for Business
 
-#ISM2411 Labs
+**Name:** Liz Zayas
 
-#This repository contains my Python lab assignments for ISM2411. It documents my progress throughout the course as I learn programming fundamentals.
+**Semester:** Fall 2026
 
-#List of Labs
-#*Module 1* What is a Computer?
-#*Module 2* The Command Line
-#*Module 3* Variables & Data Types
-#*Module 4* Operators 
-#*Module 5* Conditionals
-#*Module 6* Loops
-#*Module 7* Functions & AI Literacy
-#How to Run
-#python module07/broken_sales.py
+**Instructor:** [Markum Reed]
+
+## About This Repo
+
+This repository contains my weekly lab submissions for ISM2411.
+Each folder corresponds to one module.
+
+## Modules
+
+- `week05/` — Conditionals: tiered discount calculator
+- `week06/` — Loops: sales report with sum, average, max
+- `week07/` — Functions: calculate_tax, apply_discount
+- `week08/` — Git: first GitHub submission
+
+## How to Run
+
+Each script is standalone. Open a terminal and run:
+```
+python module07/functions.py
+```

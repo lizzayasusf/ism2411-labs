@@ -29,8 +29,9 @@ https://github.com/lizzayasusf/ism2411-labs
 
 ### 1. Git Commit History
 ```
-860e9b8 Add module07 business tools and debug exercise.
-0ab2f89 Initial commit
+600be75 (HEAD -> main, origin/main, origin/HEAD) Fix formatting and remove duplicate reflection entries
+7653e42 Add GitHub repository link to README
+8871eec Update README.md
 ```
 I think this history would show me that they use commit messages to describe the updates they make to the project. I would say they know how to organize their work and track changes using Git.
 ### 2. 
